@@ -11,4 +11,4 @@ This is my first GitHub project – a simple calculator built with Python!
 ## 📂 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/python-calculator.git
+   git clone (https://github.com/SyedSajidulhaq/Simple-Calculator.git)
